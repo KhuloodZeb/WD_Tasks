@@ -1,0 +1,20 @@
+header{
+    background-color: rgb(196, 157, 157);
+    padding: 1%;
+}
+header nav a{
+    color: black;
+    padding: 2%;
+
+}
+footer{
+    background-color: rgb(196, 157, 157);
+    padding: 1%;
+    text-align: center;
+}
+footer p{
+    font-weight: 600;
+}
+#A p{
+    font-weight: 800;
+}
